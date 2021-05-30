@@ -8,3 +8,5 @@ This is Login page sign in and sign out page
 ##### learn new things get the job eassily
 ###### become  a  web devloper uaing django
 
+*it is used for Django developer site*
+**new deveeloper crud operation***
