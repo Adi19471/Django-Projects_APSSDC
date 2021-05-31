@@ -1,5 +1,18 @@
+~~adi~~
+	:green_heart:
+:grinning:
+
+Name | course |
+-------|-------
+ADI | Django
+chinna | Python
+
 # Django-Projects_APSSDC
 This is Login page sign in and sign out page
+
+`<DJANGO ADI>` 
+
+[djnago page](www.google.com)
 
 # django side
 ## pytho django page
@@ -30,4 +43,7 @@ return render("DJANGO DEVELOPER SITES")
 table 1 | table2|
 
 
-** DJANGO PAGE **
+**DJANGO PAGE**
+
+
+*italic*
