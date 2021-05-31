@@ -18,3 +18,13 @@ This is Login page sign in and sign out page
 
 ![simple forest](https://www.marshallsindia.com/images/younique/nature/nature-cover-slider-6.jpg)
 ![simple house](https://i.ytimg.com/vi/r0m31joZaoE/maxresdefault.jpg)
+
+
+~~~ python
+
+def(request):
+return render("DJANGO DEVELOPER SITES")
+
+
+~~~ Python create one file in ur ways 
+table 1 | table2|
