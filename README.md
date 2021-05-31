@@ -28,3 +28,6 @@ return render("DJANGO DEVELOPER SITES")
 
 ~~~ Python create one file in ur ways 
 table 1 | table2|
+
+
+** DJANGO PAGE **
